@@ -19,7 +19,7 @@ const App = () => {
     <div>
       <div className='header'>
         <img src="https://cdn.jsdelivr.net/emojione/assets/png/1f638.png" alt="cat-angry"/>
-        <h1>Emoji Search</h1>
+        <h1>Naresh Emoji Search</h1>
         <img src="https://cdn.jsdelivr.net/emojione/assets/png/1f63a.png" alt="cat-happy"/>
       </div>
       <input
